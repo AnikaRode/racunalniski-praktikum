@@ -11,11 +11,4 @@
 *.pyc
 *.snm
 *.synctex.gz
-*.pdf
-*.txt
-*.md
-*.html
-*.css
-*.jpg
-*.png
-*.bib,
+
